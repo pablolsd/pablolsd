@@ -11,6 +11,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pablolsd?theme=dark&font=Commissioner&ext=contest)
+
+<br>
 <a href="https://www.codewars.com/users/pablolsd">
   <img src="https://www.codewars.com/users/pablolsd/badges/large" alt="Codewars"/>
       </a>
