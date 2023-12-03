@@ -9,12 +9,12 @@
 </p>
 
 
-
+ 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pablolsd?theme=dark&font=Commissioner&ext=contest)
 
 <br>
 <a align="center" href="https://www.codewars.com/users/pablolsd">
-  <img src="https://www.codewars.com/users/pablolsd/badges/large" alt="Codewars"/>
+  <img  align="center" src="https://www.codewars.com/users/pablolsd/badges/large" alt="Codewars"/>
       </a>
       <br>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
