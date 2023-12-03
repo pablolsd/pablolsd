@@ -5,16 +5,10 @@
 <br>
 <p align="center">
     <h1 align="center">✩&emsp;pablolds&emsp;✩</h1>
+    <h1 align="center">&emsp;Sergey Lucenko&emsp;</h1>
 </p>
 
-<p align="center">
- <img width="600" src="snake.svg" alt="snake"/>
-</p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pablolsd?theme=dark&font=Commissioner&ext=contest)
 
@@ -32,8 +26,8 @@
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-  ### :hammer_and_wrench: Languages and Tools :
-- <div>
+  Languages and Tools :
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -50,6 +44,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<p align="center">
+ <img width="600" src="snake.svg" alt="snake"/>
+</p>
 
 ###  My Stats :
 
